@@ -2,3 +2,18 @@ body{
     background-color: rgb(129, 55, 55);
 
 }
+
+main{ 
+    width: 940px;
+    margin: 0 auto;
+}
+form{
+    margin: 40px;
+} 
+form label{
+    display: block;
+   font-size: 20px;
+   margin: 0 0 0 10px;
+   padding: 10px 25px;
+   width: 50%;
+}
